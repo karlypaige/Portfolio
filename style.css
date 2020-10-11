@@ -24,7 +24,7 @@ h1{
 }
 
 img{
-    height:200px;
+    max-height:230px;
     float: left;
     margin: 15px;
 }
