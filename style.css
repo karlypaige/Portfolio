@@ -24,7 +24,7 @@ h1{
 }
 
 img{
-    max-height:230px;
+    max-height:300px;
     float: left;
     margin: 15px;
 }
@@ -33,9 +33,7 @@ p{
     padding: 15px;
 }
 
-.container{
-
-    margin-top: 75px;
+ .container{
     margin-bottom: 100px;
 }
 
@@ -91,3 +89,20 @@ footer .container{
 /* Extra small devices (portrait phones, less than 576px)
 // No media query since this is the default in Bootstrap*/
 
+@media only screen and (min-width: 400px) {  
+    /* For tablets: */  
+    .col-xxs-1 {width: 8.33%;}  
+    .col-xxs-2 {width: 16.66%;}  
+    .col-xxs-3 {width: 25%;}  
+    .col-xxs-4 {width: 33.33%;}  
+    .col-xxs-5 {width: 41.66%;}  
+    .col-xxs-6 {width: 50%;}  
+    .col-xxs-7 {width: 58.33%;}  
+    .col-xxs-8 {width: 66.66%;}  
+    .col-xxs-9 {width: 75%;}  
+    .col-xxs-10 {width: 83.33%;}  
+    .col-xxs-11 {width: 91.66%;}  
+    .col-xxs-12 {width: 100%;}  
+
+    .col {margin:0;}
+} 
