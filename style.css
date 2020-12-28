@@ -23,6 +23,10 @@ h1{
     border-bottom: 1px solid gray;
 }
 
+h5{
+    margin: 15px 15px 0px 15px;
+}
+
 img{
     max-height:300px;
     float: left;
