@@ -10,7 +10,7 @@ Responsive elements at 400, 768, and 992 pixel widths.
 - Full Stack Portfolio (Small sample of work from UCSD Bootcamp)
 - Contact (send me a message if you see something you like)
 
-https://karlypaige.github.io/Responsive/
+https://karlypaige.github.io/Portfolio/
 
 
 # Github links
