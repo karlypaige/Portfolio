@@ -5,11 +5,24 @@ This is assignment 2 of Full Stack Coding Bootcamp
 Responsive elements at 400, 768, and 992 pixel widths. 
 
 4 pages: 
-  -index.html 
-  -portfolio.html 
-  -contact.html 
-  -style.css 
-  
-Images in Assets folder (N.B. I originally had them linked to my page http://karlypaige.com but the links were all broken. So instead I just downloaded the jpgs and put them in a file which worked for my site, but I am not sure why image web links didn't work.)
+- Index (About Me)
+- Illustrations (Small sample of scientific illustrations)
+- Full Stack Portfolio (Small sample of work from UCSD Bootcamp)
+- Contact (send me a message if you see something you like)
 
 https://karlypaige.github.io/Responsive/
+
+
+# Github links
+
+- https://karlypaige.github.io/SearchAway/
+- https://karlypaige.github.io/Weather-App/
+- https://karlypaige.github.io/Password_Generator/
+
+# Illustration Portfolio
+
+- http://karlypaige.com
+
+# Resume
+
+- http://karlypaige.com/FullStackFlexResume.pdf
