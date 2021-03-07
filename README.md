@@ -13,7 +13,7 @@ Responsive elements at 400, 768, and 992 pixel widths.
 https://karlypaige.github.io/Portfolio/
 
 
-# Github links
+# Github Repository links
 
 - SearchAway: https://karlypaige.github.io/SearchAway/
 - Weather App: https://karlypaige.github.io/Weather-App/
