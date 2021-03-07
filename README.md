@@ -15,9 +15,11 @@ https://karlypaige.github.io/Portfolio/
 
 # Github links
 
-- https://karlypaige.github.io/SearchAway/
-- https://karlypaige.github.io/Weather-App/
-- https://karlypaige.github.io/Password_Generator/
+- SearchAway: https://karlypaige.github.io/SearchAway/
+- Weather App: https://karlypaige.github.io/Weather-App/
+- Password Generator: https://karlypaige.github.io/Password_Generator/
+- Hamburger Tracker:https://secret-sands-09700.herokuapp.com/
+- Time Killer: https://project2jebk.herokuapp.com/
 
 # Illustration Portfolio
 
